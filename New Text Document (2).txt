@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,•●★★--- Bein kurd 1 ---★★●•
+http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
+#EXTINF:-1,KRD: Bein kurd 2
+http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AR: Bein kurd 3
+http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AR: Bein kurd 4
+http://45.94.31.45/beinm16504/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AR: Bein kurd 5
+http://45.94.31.45/beinm16505/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AR: Bein kurd 6
+http://45.94.31.45/beinm16506/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AR: Bein kurd premium 1
+http://217.23.4.81:86/BEIN_SPORT_8_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,AR: Bein kurd premium 2
+http://45.94.31.45/bar165002/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AR: Bein kurd premium 3
+http://45.94.31.45/bar165003/tracks-v1a1/mono.m3u8
