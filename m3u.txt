@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN KURD 1" tvg-logo="https://a.top4top.io/p_2120cutmj1.png" group-title="SPORT",BEIN KURD 1
+http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN KURD 2" tvg-logo="https://b.top4top.io/p_2120328b82.png" group-title="SPORT",BEIN KURD 2
+http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN KURD 3" tvg-logo="https://up4net.com/uploads4/up4net.com163484152478182.png" group-title="SPORT",BEIN KURD 3
+http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
